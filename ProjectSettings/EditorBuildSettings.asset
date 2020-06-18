@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/MainMenu.unity
+    guid: 23ee712782b011a43bf725186cc5da67
+  - enabled: 1
+    path: Assets/Scene/Fievre.unity
+    guid: b949f61a10981094eb5cc8450e2c4511
+  - enabled: 1
+    path: Assets/Scene/Infection.unity
+    guid: b8e277f6d51b91b40b247c3fc3118bcf
+  - enabled: 1
+    path: Assets/Scene/Antiviral.unity
+    guid: df9bae986c4f16b42a1b624e2f756795
+  m_configObjects: {}
